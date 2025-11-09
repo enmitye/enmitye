@@ -1,4 +1,4 @@
 <p align="center">
-  <img src="https://media1.tenor.com/m/qpD_2TjX88IAAAAd/jacinthe-jacinthe-pokemon.gif" width="600">
+  <img src="https://media1.tenor.com/m/qpD_2TjX88IAAAAd/jacinthe-jacinthe-pokemon.gif" width="500">
 </p>
 
