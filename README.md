@@ -1,3 +1,5 @@
-![jacinthe-jacinthe-pokemon](https://github.com/user-attachments/assets/846fa061-b6c0-423a-a590-e06a52bb9255)
+<p align="center">
+  <img src="[your-image-link-here](https://tenor.com/view/jacinthe-jacinthe-pokemon-pokemon-pokemon-legends-za-legends-za-gif-12290604691520746434)" width="300">
+</p>
 
 
