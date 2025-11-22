@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=enmitye&color=#C4D9D9&style=plastic" />
+  <img src="https://komarev.com/ghpvc/?username=enmitye&color=blue&style=plastic" />
 </p>
 <p align="center">
   <img src="https://media1.tenor.com/m/Nzf-WneUimMAAAAd/unova-pokemon-n.gif" width="400">
