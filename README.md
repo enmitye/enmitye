@@ -6,6 +6,6 @@
   <a href="https://copycatss.straw.page">read</a>
 </p>
 <p align="center">
-  <img src="https://files.catbox.moe/m3rqqj.png"width="230">
+  <img src="https://files.catbox.moe/m3rqqj.png"width="150">
 </p> 
 
