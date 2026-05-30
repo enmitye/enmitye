@@ -10,5 +10,5 @@
 </p> 
 
 <p align="center">
-  <a href="https://github.com/constitum">lub</a>
+  <a href="https://github.com/constitum">♥︎_♥︎</a>
 </p>
