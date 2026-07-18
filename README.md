@@ -6,9 +6,8 @@
   <a 
 </p>
 <p align="center">
-  <img src="https://files.catbox.moe/q6mwox.png"width="105">
+  <img src="https://files.catbox.moe/q6mwox.png"width="100">
 </p> 
-
 <p align="center">
   <a href="https://github.com/constitum">♥︎_♥︎</a>
 </p>
