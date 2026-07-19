@@ -5,7 +5,7 @@
 <p align="center">
 </p>
 <p align="center">
-  <img src="https://files.catbox.moe/l9tarl.png" width="100">
+  <img src="" width="100">
 </p> 
 <p align="center">
   <a href="https://github.com/constitum">♥︎_♥︎</a>
